@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap');
+*{
+  font-family: "Noto Serif TC", serif;
+}
+
+body {
+  display: flex;
+  background: #c16e57;
+  place-items: start;
+  min-height: 100vh;
+  min-width: 375px;
+}
+
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+
+
+
