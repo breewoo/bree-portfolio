@@ -13,6 +13,7 @@ import p08 from './assets/p-08.png';
 import p11 from './assets/p-11.png';
 import p12 from './assets/p-12.png';
 import p13 from './assets/p-13.png';
+import p14 from './assets/p-14.png';
 
 const DataWebsite = [
   {"technologys":['VanillaJS'] , "gallery":p07, "url":"http://maxx.lionfree.net/gard/"},
@@ -28,6 +29,7 @@ const DataWebsite = [
 const DataApplication = [
   {"technologys":['React'] , "gallery":p12, "url":"https://breewoo.github.io/react-weather-app/"},
   {"technologys":['VanillaJS'] , "gallery":p13, "url":"http://maxx.lionfree.net/vaCalculator/"},
+  {"technologys":['vue3','firebase'] , "gallery":p14, "url":"https://notefire-11fba.web.app/"},
 ];
 
 </script>
